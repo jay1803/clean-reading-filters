@@ -9,5 +9,5 @@ www.seroundtable.com###disqus_thread
 ! ================================================================================
 ! substacks
 ! ================================================================================
-newsletter.mkt1.co##.single-post-section
-newsletter.mkt1.co##.publication-footer
+substack.com,newsletter.mkt1.co##.single-post-section
+substack.com,newsletter.mkt1.co##.publication-footer
