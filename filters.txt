@@ -1,0 +1,7 @@
+! Title: Clean page filters
+! Last modified: %timestamp%
+! Description: Filters irrelevant content from page for better reading experience.
+! Homepage: https://github.com/jay1803/clean-page
+
+www.seroundtable.com##section#post-sidebar
+www.seroundtable.com###disqus_thread
