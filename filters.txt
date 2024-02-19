@@ -6,7 +6,7 @@
 ! --------------------------------------------------------------------------------
 ! substacks
 ! --------------------------------------------------------------------------------
-substack.com,newsletter.mkt1.co##.single-post-section,.publication-footer
+thepsmiths.com,substack.com,newsletter.mkt1.co##.single-post-section,.publication-footer
 
 ! --------------------------------------------------------------------------------
 ! medium.com
