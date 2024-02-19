@@ -3,11 +3,11 @@
 ! Description: Filters irrelevant content from page for better reading experience.
 ! Homepage: https://github.com/jay1803/clean-page
 
-www.seroundtable.com##section#post-sidebar
-www.seroundtable.com###disqus_thread
-
-! ================================================================================
+! --------------------------------------------------------------------------------
 ! substacks
-! ================================================================================
-substack.com,newsletter.mkt1.co##.single-post-section
-substack.com,newsletter.mkt1.co##.publication-footer
+! --------------------------------------------------------------------------------
+substack.com,newsletter.mkt1.co##.single-post-section,.publication-footer
+
+! --------------------------------------------------------------------------------
+www.seroundtable.com##section#post-sidebar,#disqus_thread
+www.euronews.com##.o-article-newsy__aside,.c-article-you-might-also-like,.c-article-tags,.js-vuukle-container,.o-site-footer__wrapper
