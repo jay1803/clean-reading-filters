@@ -1,7 +1,7 @@
-! Title: Clean page filters
+! Title: Clean reading filters
 ! Last modified: %timestamp%
 ! Description: Filters irrelevant content from page for better reading experience.
-! Homepage: https://github.com/jay1803/clean-page
+! Homepage: https://github.com/jay1803/clean-reading-filters
 
 ! --------------------------------------------------------------------------------
 ! substacks
