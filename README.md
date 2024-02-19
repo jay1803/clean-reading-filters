@@ -8,5 +8,7 @@ I use this filters work with [SingleFile](https://github.com/gildas-lormeau/Sing
 ## How to use
 1. Install [uBlock Origin](https://github.com/gorhill/uBlock)
 2. In uBlock Origin settings > Filter lists tab, sroll down to the bottom of page
-   you'll find the **Import...** section, paste `https://raw.githubusercontent.com/jay1803/clean-reading-filters/main/filters.txt` to the field then click **[Apply changes]**
+   you'll find the **Import...** section, paste `https://raw.githubusercontent.com/jay1803/clean-reading-filters/main/filters.txt` to the field then click **[Apply changes]** at the top left.
 3. Then you'll saw the Clean reading filters appears in the Custom section.
+
+![](./how-to-use.png)
