@@ -1,7 +1,6 @@
 # Clean reading filters
 This is a filter list for uBlock, to filter out irrelevant content from page. Such as recommond for you, page footer or navigation, only keep the main content for better reading experience.
 
-You might wonder why not reading mode or Instapaper like apps, the problems some page has unique layout and the reading mode and read it later app didn't handle the layout properly. For example, on medium, there're some hightlights and some comments I'd like to read as well.
+You may wonder why not use reading mode or apps like Instapaper, the problem is some pages has unique layout, the reading mode and RIL(read it later) app didn't handle the layout properly. For example, in medium, there are some hightlights and comments I'd like to read as well. This filter will keep the origin website layout and design. But I need to manually handle every website, yes, And I like the feeling of control tools I'm using.
 
-So this filter will keep the origin website layout and design.
-I use this work with [SingleFile](https://github.com/gildas-lormeau/SingleFile), to download the webpage so I can read it later, literally offline reading. With this filters blocked irrelevant content, the downloaded webpage size reduced 2-5x, will save lots storage space.
+I use this filters work with [SingleFile](https://github.com/gildas-lormeau/SingleFile), to download the webpage so I can read it later, literally offline reading. With this filters, the downloaded file size reduced 2-5x, will save lots storage space.
