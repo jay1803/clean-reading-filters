@@ -17,3 +17,4 @@ medium.com###root>div>div:last-child>div:last-child>div:last-child
 www.seroundtable.com##section#post-sidebar,#disqus_thread
 www.euronews.com##.o-article-newsy__aside,.c-article-you-might-also-like,.c-article-tags,.js-vuukle-container,.o-site-footer__wrapper,.widget
 andrewchen.com##.main>div:last-child,#footer,#sidebar,iframe
+steveblank.com###header-box
