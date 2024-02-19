@@ -9,5 +9,10 @@
 substack.com,newsletter.mkt1.co##.single-post-section,.publication-footer
 
 ! --------------------------------------------------------------------------------
+! medium.com
+! --------------------------------------------------------------------------------
+medium.com###root>div>div:last-child>div:last-child>div:last-child>div:nth-child(4),#root>div>div:last-child>div:last-child>div:last-child>div:last-child
+
+! --------------------------------------------------------------------------------
 www.seroundtable.com##section#post-sidebar,#disqus_thread
 www.euronews.com##.o-article-newsy__aside,.c-article-you-might-also-like,.c-article-tags,.js-vuukle-container,.o-site-footer__wrapper,.widget
