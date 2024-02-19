@@ -3,16 +3,21 @@
 ! Description: Filters irrelevant content from page for better reading experience.
 ! Homepage: https://github.com/jay1803/clean-reading-filters
 
+
 ! --------------------------------------------------------------------------------
 ! substacks
 ! --------------------------------------------------------------------------------
-thepsmiths.com,substack.com,newsletter.mkt1.co##.single-post-section,.publication-footer
+www.notboring.co,www.notoriousplg.ai,growthunhinged.com,thepsmiths.com,substack.com,newsletter.mkt1.co##.single-post-section,.publication-footer
+
 
 ! --------------------------------------------------------------------------------
 ! medium.com
 ! --------------------------------------------------------------------------------
 medium.com###root>div>div:last-child>div:last-child>div:last-child
 
+
+! --------------------------------------------------------------------------------
+! REST
 ! --------------------------------------------------------------------------------
 www.seroundtable.com##section#post-sidebar,#disqus_thread
 www.euronews.com##.o-article-newsy__aside,.c-article-you-might-also-like,.c-article-tags,.js-vuukle-container,.o-site-footer__wrapper,.widget
