@@ -15,6 +15,11 @@ www.fabricatedknowledge.com,www.semianalysis.com,www.appeconomyinsights.com,www.
 ! --------------------------------------------------------------------------------
 medium.com###root>div>div:last-child>div:last-child>div:last-child
 
+! --------------------------------------------------------------------------------
+! beehiiv
+! --------------------------------------------------------------------------------
+capitalgains.thediff.co##footer,#comments>div:last-child,main .fixed
+
 
 ! --------------------------------------------------------------------------------
 ! REST
