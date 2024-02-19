@@ -32,5 +32,5 @@ nytimes.com##.ribbon-show.article-ribbon,.article-ribbon,#subscriber-recirculati
 www.bloomberg.com###fortress-paywall-container-root
 www.stage2.capital##.site-header--scroll,www.stage2.capital##.pillar-page__nav
 www.forbes.com##.save-tooltip,.pay-wall-content
-www.demandcurve.com##.fixed-nav:style(position: unset !important)
 www.demandcurve.com##.author-block,.after-article-form-box,article~div,.banner,.footer,.playbook-sharing,.playbook-sidebar
+www.skyword.com##nav,.sky-blog-nav-header,.sky-related-posts,.blog-structured-data,footer
