@@ -1,0 +1,17 @@
+/* ==UserStyle==
+@name           Clean Reading Styles
+@namespace      https://github.com/jay1803/clean-reading-filters
+@homepageURL    https://github.com/jay1803/clean-reading-filters
+@version        1.0.0
+@description    Modify the page style for a better reading experience.
+@author         maxOS
+==/UserStyle== */
+/* Feature list:
+    - I hate sticky navbar
+*/
+
+@-moz-document domain("moz.com") {
+  .position-fixed {
+    position: unset !important;
+  }
+}
