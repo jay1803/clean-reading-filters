@@ -30,7 +30,8 @@
 }
 
 @-moz-document domain("hbr.org") {
-  .sticky-top-header.global-nav-container {
-    position: relative !important;
+  .sticky-top-header.global-nav-container,
+  .top-header {
+    position: unset !important;
   }
 }
