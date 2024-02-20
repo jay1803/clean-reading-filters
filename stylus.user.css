@@ -22,3 +22,9 @@
         position: unset !important;
     }
 }
+
+@-moz-document domain("mckinsey.com") {
+  div[data-layer-region="body"]>section {
+    position: unset !important;
+  }
+}
