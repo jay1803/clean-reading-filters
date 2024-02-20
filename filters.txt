@@ -34,3 +34,4 @@ www.stage2.capital##.site-header--scroll,www.stage2.capital##.pillar-page__nav
 www.forbes.com##.save-tooltip,.pay-wall-content
 www.demandcurve.com##.author-block,.after-article-form-box,article~div,.banner,.footer,.playbook-sharing,.playbook-sidebar
 www.skyword.com##nav,.sky-blog-nav-header,.sky-related-posts,.blog-structured-data,footer
+moz.com##div[data-promo],.page-section-content>div:last-child,.container~div,#mzr-footer,.mzr-footer
