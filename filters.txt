@@ -38,3 +38,4 @@ moz.com##div[data-promo],.container~div,#mzr-footer,.mzr-footer
 www.mckinsey.com##div[data-layer-region="related-articles"],.mck-u-screen-only,#global-footer,main[data-layer-region="article-body"]>div:last-child
 hbr.org##.content-rec-wrapper,footer,.left-rail--container,.right-rail--container
 waitbutwhy.com###sidebar,#disqus_recommendations,footer
+mattyford.com###thumbnail,footer,.p-comment,nav
