@@ -36,3 +36,9 @@
     position: unset !important;
   }
 }
+
+@-moz-document domain("newatlas.com") {
+  .Page-header {
+    position: unset !important;
+  }
+}
