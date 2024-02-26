@@ -41,3 +41,4 @@ hbr.org##.content-rec-wrapper,.left-rail--container,.right-rail--container
 waitbutwhy.com###sidebar,#disqus_recommendations
 mattyford.com###thumbnail,.p-comment,nav
 search.arc.net##a[aria-haspopup="dialog"]
+www.mcsweeneys.net##section:has(.links),.patreon
