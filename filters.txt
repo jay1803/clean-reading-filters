@@ -13,7 +13,7 @@ www.techemails.com,blog.eladgil.com,newsletter.pragmaticengineer.com,dkb.blog,ww
 ! --------------------------------------------------------------------------------
 ! medium.com
 ! --------------------------------------------------------------------------------
-thinkgrowth.org,medium.com###root>div>div:last-child>div:last-child>div:last-child
+thinkgrowth.org,medium.com###root>div>div:last-child>div:last-child>div:last-child,div:has(>figure:only-child)
 
 ! --------------------------------------------------------------------------------
 ! beehiiv
