@@ -42,3 +42,9 @@
     position: unset !important;
   }
 }
+
+@-moz-document domain("hackernoon.com") {
+  header {
+    position: unset !important;
+  }
+}
