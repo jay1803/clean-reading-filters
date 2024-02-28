@@ -10,6 +10,12 @@
     - I hate sticky navbar
 */
 
+@-moz-document regexp("https:.*") {
+  nav {
+    position: unset !important;
+  }
+}
+
 @-moz-document domain("moz.com") {
   .position-fixed {
     position: unset !important;

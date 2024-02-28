@@ -46,3 +46,4 @@ thegradient.pub##div:has(+footer)
 www.mykpono.com##aside.read-more-wrap,#ghost-comments-root,section.article-comments,#ghost-portal-root
 kellblog.com###jp-relatedposts,.entry-info,#comments,#nav-below,.widget-area,#nav-above
 hackernoon.com##.poll_comments~div,.poll_comments~section
+www.wsj.com##.aside-container,main~div,article>div:last-child
