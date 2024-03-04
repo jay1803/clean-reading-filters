@@ -55,3 +55,5 @@ tradingaxe.com###sys-side-nav,#web-footer-top,#web-footer-bottom
 chiefmartec.com###secondary,.ast-single-related-posts-container,.astra-advanced-hook-4623
 sacra.com###appMain>div:first-child,#company-popover-container,.app--document-actions,#document_read_more,#appHeader,.fixed
 www.paddle.com##main>article~div
+blog.cloudflare.com##main~div
+www.wired.com##.recirc-list-wrapper.viewport-monitor-anchor,div[class^=ActionBarWrapperContent]
