@@ -11,7 +11,9 @@
 */
 
 @-moz-document regexp("https:.*") {
-  nav {
+  nav,
+  .fixed,
+  .position-fixed {
     position: unset !important;
   }
 }

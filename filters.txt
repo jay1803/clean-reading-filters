@@ -53,3 +53,4 @@ hackernoon.com##.poll_comments~div,.poll_comments~section
 www.wsj.com##.aside-container,main~div,article>div:last-child
 tradingaxe.com###sys-side-nav,#web-footer-top,#web-footer-bottom
 chiefmartec.com###secondary,.ast-single-related-posts-container,.astra-advanced-hook-4623
+sacra.com###appMain>div:first-child,#company-popover-container,.app--document-actions,#document_read_more
