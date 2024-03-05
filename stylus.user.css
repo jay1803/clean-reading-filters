@@ -2,7 +2,7 @@
 @name           Clean Reading Styles
 @namespace      https://github.com/jay1803/clean-reading-filters
 @homepageURL    https://github.com/jay1803/clean-reading-filters
-@version        1.0.2
+@version        1.0.3
 @description    Modify the page style for a better reading experience.
 @author         maxOS
 ==/UserStyle== */
@@ -53,6 +53,12 @@
 
 @-moz-document domain("hackernoon.com") {
   header {
+    position: unset !important;
+  }
+}
+
+@-moz-document domain("geeksforgeeks.org") {
+  .header-main__slider {
     position: unset !important;
   }
 }
