@@ -2,7 +2,7 @@
 @name           Clean Reading Styles
 @namespace      https://github.com/jay1803/clean-reading-filters
 @homepageURL    https://github.com/jay1803/clean-reading-filters
-@version        1.0.3
+@version        1.0.4
 @description    Modify the page style for a better reading experience.
 @author         maxOS
 ==/UserStyle== */
@@ -13,7 +13,8 @@
 @-moz-document regexp("https:.*") {
   nav,
   .fixed,
-  .position-fixed {
+  .position-fixed,
+  .sticky {
     position: unset !important;
   }
 }
