@@ -7,7 +7,7 @@
 ! --------------------------------------------------------------------------------
 ! substacks
 ! --------------------------------------------------------------------------------
-resources.thrivestack.ai,www.techemails.com,blog.eladgil.com,newsletter.pragmaticengineer.com,dkb.blog,www.fabricatedknowledge.com,www.semianalysis.com,www.appeconomyinsights.com,www.business-breakdowns.com,www.notboring.co,www.notoriousplg.ai,growthunhinged.com,thepsmiths.com,substack.com,newsletter.mkt1.co##.single-post-section:not(.comments-section),.publication-footer,.subscribe-footer
+www.business-breakdowns.com,resources.thrivestack.ai,www.techemails.com,blog.eladgil.com,newsletter.pragmaticengineer.com,dkb.blog,www.fabricatedknowledge.com,www.semianalysis.com,www.appeconomyinsights.com,www.business-breakdowns.com,www.notboring.co,www.notoriousplg.ai,growthunhinged.com,thepsmiths.com,substack.com,newsletter.mkt1.co##.single-post-section:not(.comments-section),.publication-footer,.subscribe-footer
 
 
 ! --------------------------------------------------------------------------------
