@@ -23,7 +23,7 @@ capitalgains.thediff.co##footer,#comments>div:last-child,main .fixed
 ! --------------------------------------------------------------------------------
 ! exclude footers and some exceptions
 ! --------------------------------------------------------------------------------
-*##footer:not(form footer),#footer,.footer
+*##body>footer,#footer,.footer
 
 
 ! --------------------------------------------------------------------------------
