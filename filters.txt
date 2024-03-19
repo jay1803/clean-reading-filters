@@ -59,3 +59,4 @@ blog.cloudflare.com##main~div
 www.wired.com##.recirc-list-wrapper.viewport-monitor-anchor,div[class^=ActionBarWrapperContent]
 geeksforgeeks.org##.article-meta,.report_modal_content,#similar-reads,.rightBar,.discussion_panel,.header-main__slider-sticky,#scrollTopBtn
 itamargilad.com##.ast-single-related-posts-container,.monsterinsights-widget-popular-posts,#thrive-
+www.svpg.com##.related--articles
