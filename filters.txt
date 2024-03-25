@@ -21,10 +21,10 @@ thinkgrowth.org,medium.com###root>div>div:last-child>div:last-child>div:last-chi
 capitalgains.thediff.co##footer,#comments>div:last-child,main .fixed
 
 ! --------------------------------------------------------------------------------
-! exclude footers and some exceptions
+! global filters
 ! --------------------------------------------------------------------------------
 *##body>footer,#footer,.footer
-
+*###disqus_recommendations
 
 ! --------------------------------------------------------------------------------
 ! REST
@@ -42,7 +42,7 @@ www.skyword.com##.sky-related-posts,.blog-structured-data,.sky-footer-cta
 moz.com##div[data-promo],.container~div,#mzr-footer,.mzr-footer
 www.mckinsey.com##div[data-layer-region="related-articles"],.mck-u-screen-only,#global-footer,main[data-layer-region="article-body"]>div:last-child
 hbr.org##.content-rec-wrapper,.left-rail--container,.right-rail--container
-waitbutwhy.com###sidebar,#disqus_recommendations
+waitbutwhy.com###sidebar
 mattyford.com###thumbnail,.p-comment,nav
 search.arc.net##a[aria-haspopup="dialog"]
 www.mcsweeneys.net##section:has(.links),.patreon
@@ -60,3 +60,4 @@ www.wired.com##.recirc-list-wrapper.viewport-monitor-anchor,div[class^=ActionBar
 geeksforgeeks.org##.article-meta,.report_modal_content,#similar-reads,.rightBar,.discussion_panel,.header-main__slider-sticky,#scrollTopBtn
 itamargilad.com##.ast-single-related-posts-container,.monsterinsights-widget-popular-posts,#thrive-
 www.svpg.com##.related--articles
+www.saastr.com###sidebar,footer,.et_social_pin_images_outer
