@@ -13,7 +13,7 @@ www.millersbookreview.com,www.business-breakdowns.com,resources.thrivestack.ai,w
 ! --------------------------------------------------------------------------------
 ! medium.com
 ! --------------------------------------------------------------------------------
-thinkgrowth.org,medium.com###root>div>div:last-child>div:last-child>div:last-child,div:has(>figure:only-child)
+thinkgrowth.org,medium.com###root>div>div:last-child>div:last-child>div:last-child,div:has(>figure:only-child),footer~div,footer
 
 ! --------------------------------------------------------------------------------
 ! beehiiv
