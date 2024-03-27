@@ -63,3 +63,4 @@ www.svpg.com##.related--articles
 www.saastr.com###sidebar,footer,.et_social_pin_images_outer
 www.demandbase.com###v-header-main,main~*,header
 martech.org##.content>.row>div:last-child,#adSpacer,.body-content>.row
+www.qualtrics.com###article-footer-section,footer,#article-sidebar
