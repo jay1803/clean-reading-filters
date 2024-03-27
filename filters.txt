@@ -61,3 +61,4 @@ geeksforgeeks.org##.article-meta,.report_modal_content,#similar-reads,.rightBar,
 itamargilad.com##.ast-single-related-posts-container,.monsterinsights-widget-popular-posts,#thrive-
 www.svpg.com##.related--articles
 www.saastr.com###sidebar,footer,.et_social_pin_images_outer
+www.demandbase.com###v-header-main,main~*,header
