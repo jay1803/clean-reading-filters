@@ -40,7 +40,7 @@ www.forbes.com##.save-tooltip,.pay-wall-content
 www.demandcurve.com##.author-block,.after-article-form-box,article~div,.banner,,.playbook-sharing,.playbook-sidebar
 www.skyword.com##.sky-related-posts,.blog-structured-data,.sky-footer-cta
 moz.com##div[data-promo],.container~div,#mzr-footer,.mzr-footer
-www.mckinsey.com##div[data-layer-region="related-articles"],.mck-u-screen-only,#global-footer,main[data-layer-region="article-body"]>div:last-child
+www.mckinsey.com##div[data-layer-region="related-articles"],.mck-u-screen-only,#global-footer
 hbr.org##.content-rec-wrapper,.left-rail--container,.right-rail--container
 waitbutwhy.com###sidebar
 mattyford.com###thumbnail,.p-comment,nav
