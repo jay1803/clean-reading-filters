@@ -66,3 +66,4 @@ martech.org##.content>.row>div:last-child,#adSpacer,.body-content>.row
 www.qualtrics.com###article-footer-section,footer,#article-sidebar
 www.spiralytics.com##.recent-posts,footer,.table-of-contents,.post-featured-image,.newsletter
 www.quantamagazine.org###postBody~section
+sites.lsa.umich.edu###masthead,nav[aria-label="Posts"],.widget-area,footer
