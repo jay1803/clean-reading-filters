@@ -46,7 +46,7 @@ waitbutwhy.com###sidebar
 mattyford.com###thumbnail,.p-comment,nav
 search.arc.net##a[aria-haspopup="dialog"]
 www.mcsweeneys.net##section:has(.links),.patreon
-thegradient.pub##div:has(+footer)
+thegradient.pub##footer,.c-related,.c-sidebar
 www.mykpono.com##aside.read-more-wrap,#ghost-comments-root,section.article-comments,#ghost-portal-root
 kellblog.com###jp-relatedposts,.entry-info,#comments,#nav-below,.widget-area,#nav-above
 hackernoon.com##.poll_comments~div,.poll_comments~section
