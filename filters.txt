@@ -68,4 +68,4 @@ www.spiralytics.com##.recent-posts,footer,.table-of-contents,.post-featured-imag
 www.quantamagazine.org###postBody~section
 sites.lsa.umich.edu###masthead,nav[aria-label="Posts"],.widget-area,footer
 krebsonsecurity.com###secondary,#respond,#publisho-footer,.site-wordpress,.nav-single
-stay-bullish.com##.gh-article-image,section:has(.gh-feed),footer
+stay-bullish.com##.gh-article-image,section:has(.gh-feed),footer,.kg-signup-card
