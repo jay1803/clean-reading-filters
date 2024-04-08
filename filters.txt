@@ -71,3 +71,4 @@ krebsonsecurity.com###secondary,#respond,#publisho-footer,.site-wordpress,.nav-s
 stay-bullish.com##.gh-article-image,section:has(.gh-feed),footer,.kg-signup-card
 www.paddle.com##footer,div[class*='article-section_as__aside'],div[class*='article-action_articleAction']
 vadimkravcenko.com##aside
+www.demandcurve.com###newsletters,.playbook-sidebar,.navigation
