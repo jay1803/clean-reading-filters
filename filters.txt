@@ -50,7 +50,7 @@ thegradient.pub##footer,.c-related,.c-sidebar
 www.mykpono.com##aside.read-more-wrap,#ghost-comments-root,section.article-comments,#ghost-portal-root
 kellblog.com###jp-relatedposts,.entry-info,#comments,#nav-below,.widget-area,#nav-above
 hackernoon.com##.poll_comments~div,.poll_comments~section
-www.wsj.com##.aside-container,main~div
+www.wsj.com##.aside-container,main~div,article~div,footer,div:has(>.adWrapper)
 tradingaxe.com###sys-side-nav,#web-footer-top,#web-footer-bottom
 chiefmartec.com###secondary,.ast-single-related-posts-container,.astra-advanced-hook-4623
 sacra.com###appMain>div:first-child,#company-popover-container,.app--document-actions,#document_read_more,#appHeader,.fixed
