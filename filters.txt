@@ -74,3 +74,4 @@ vadimkravcenko.com##aside
 www.demandcurve.com###newsletters,.playbook-sidebar,.navigation
 www.frbsf.org##footer,nav
 graphite.dev###related,footer,div[class*='content_stickySidebar']
+tackle.io##.related-posts,.post-share,div[data-elementor-type="footer"]
