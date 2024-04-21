@@ -76,3 +76,4 @@ www.frbsf.org##footer,nav
 graphite.dev###related,footer,div[class*='content_stickySidebar']
 tackle.io##.related-posts,.post-share,div[data-elementor-type="footer"]
 www.noemamag.com###.related-articles
+theweeklyseo.com###header.header,.issue__pager,.cta--footer
