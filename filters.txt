@@ -79,3 +79,4 @@ www.noemamag.com###.related-articles
 theweeklyseo.com###header.header,.issue__pager,.cta--footer
 minuttia.com###div[data-elementor-type="footer"],div[data-elementor-type="single-post"]>div:last-child,div[data-elementor-type="single-post"]>section:last-child
 www.acquired.fm###.related-episodes-title,.related-episodes,.div-block-3-post-bottom,.main-section
+www.scalevp.com##.blog-single__related-posts,.c-sticky-widget
