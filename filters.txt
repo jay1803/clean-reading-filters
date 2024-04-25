@@ -82,3 +82,4 @@ www.scalevp.com##.blog-single__related-posts,.c-sticky-widget
 solutions.trustradius.com##.section-slider-related-posts,footer
 www.wheresyoured.at##main~section
 aswathdamodaran.blogspot.com##.column-right-outer
+newatlas.com##.ArticlePage-contentFooter
