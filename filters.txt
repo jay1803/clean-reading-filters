@@ -83,3 +83,4 @@ solutions.trustradius.com##.section-slider-related-posts,footer
 www.wheresyoured.at##main~section
 aswathdamodaran.blogspot.com##.column-right-outer
 newatlas.com##.ArticlePage-contentFooter
+www.battery.com##.blog-tools,.blog-lp
