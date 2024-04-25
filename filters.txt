@@ -54,7 +54,7 @@ www.wsj.com##.aside-container,main~div,article~div,footer,div:has(>.adWrapper)
 tradingaxe.com###sys-side-nav,#web-footer-top,#web-footer-bottom
 chiefmartec.com###secondary,.ast-single-related-posts-container,.astra-advanced-hook-4623
 sacra.com###appMain>div:first-child,#company-popover-container,.app--document-actions,#document_read_more,#appHeader,.fixed
-www.paddle.com##main>article~div
+www.paddle.com##main>article~div,footer,div[class*='article-section_as__aside'],div[class*='article-action_articleAction'],div[class*="toast"]
 blog.cloudflare.com##main~div
 www.wired.com##.recirc-list-wrapper.viewport-monitor-anchor,div[class^=ActionBarWrapperContent]
 geeksforgeeks.org##.article-meta,.report_modal_content,#similar-reads,.rightBar,.discussion_panel,.header-main__slider-sticky,#scrollTopBtn
@@ -69,7 +69,6 @@ www.quantamagazine.org###postBody~section
 sites.lsa.umich.edu###masthead,nav[aria-label="Posts"],.widget-area,footer
 krebsonsecurity.com###secondary,#respond,#publisho-footer,.site-wordpress,.nav-single
 stay-bullish.com##.gh-article-image,section:has(.gh-feed),footer,.kg-signup-card
-www.paddle.com##footer,div[class*='article-section_as__aside'],div[class*='article-action_articleAction']
 vadimkravcenko.com##aside
 www.demandcurve.com###newsletters,.playbook-sidebar,.navigation
 www.frbsf.org##footer,nav
