@@ -86,3 +86,5 @@ newatlas.com##.ArticlePage-contentFooter
 www.battery.com##.blog-tools,.blog-lp
 nautil.us##.article-similar-interest,footer,.top-rail__wrapper
 www.insightsquared.com###mk-sidebar,.wpb_widgetised_column.wpb_content_element,#mk-footer
+www.washingtonpost.com##.grid-rail,.hide-for-print
+motherduck.com###__next>div:first-child>div,.content-table-wrapper,main>div:last-child
