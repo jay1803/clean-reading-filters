@@ -89,3 +89,4 @@ www.insightsquared.com###mk-sidebar,.wpb_widgetised_column.wpb_content_element,#
 www.washingtonpost.com##.grid-rail,.hide-for-print
 motherduck.com###__next>div:first-child>div,.content-table-wrapper,main>div:last-child
 americanaffairsjournal.org##.site-footer-wrapper,.post-navigation
+alistapart.com##.footer-widget-area-wrap,.site-info-wrap,footer,.comment-area-wrap,.ala-author,.sidebar-related
