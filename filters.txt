@@ -13,7 +13,7 @@ www.bitsofwonder.co,www.writingruxandrabio.com,www.thebignewsletter.com,www.caut
 ! --------------------------------------------------------------------------------
 ! medium.com
 ! --------------------------------------------------------------------------------
-thinkgrowth.org,medium.com###root>div>div:last-child>div:last-child>div:last-child,div:has(>figure:only-child),footer~div,footer
+netflixtechblog.com,thinkgrowth.org,medium.com###root>div>div:last-child>div:last-child>div:last-child,div:has(>figure:only-child),footer~div,footer
 
 ! --------------------------------------------------------------------------------
 ! beehiiv
@@ -91,3 +91,4 @@ motherduck.com###__next>div:first-child>div,.content-table-wrapper,main>div:last
 americanaffairsjournal.org##.site-footer-wrapper,.post-navigation
 alistapart.com##.footer-widget-area-wrap,.site-info-wrap,footer,.comment-area-wrap,.ala-author,.sidebar-related
 medicalxpress.com##.news-related,.article-sidebar,.d-print-none
+www.jorgegalindo.me##.side-bar-fixed,.blog-articles-list,.conteiner-footer
