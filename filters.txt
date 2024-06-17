@@ -7,7 +7,7 @@
 ! --------------------------------------------------------------------------------
 ! substacks
 ! --------------------------------------------------------------------------------
-www.cautiousoptimism.news,www.tanayj.com,www.lennysnewsletter.com,blog.ablspacesystems.com,www.strangeloopcanon.com,www.elysian.press,www.experimental-history.com,www.abortretry.fail,magazine.sebastianraschka.com,hardcoresoftware.learningbyshipping.com,www.construction-physics.com,www.millersbookreview.com,www.business-breakdowns.com,resources.thrivestack.ai,www.techemails.com,blog.eladgil.com,newsletter.pragmaticengineer.com,dkb.blog,www.fabricatedknowledge.com,www.semianalysis.com,www.appeconomyinsights.com,www.business-breakdowns.com,www.notboring.co,www.notoriousplg.ai,growthunhinged.com,thepsmiths.com,substack.com,newsletter.mkt1.co##.single-post-section:not(.comments-section),.publication-footer,.subscribe-footer
+www.bitsofwonder.co,www.writingruxandrabio.com,www.thebignewsletter.com,www.cautiousoptimism.news,www.tanayj.com,www.lennysnewsletter.com,blog.ablspacesystems.com,www.strangeloopcanon.com,www.elysian.press,www.experimental-history.com,www.abortretry.fail,magazine.sebastianraschka.com,hardcoresoftware.learningbyshipping.com,www.construction-physics.com,www.millersbookreview.com,www.business-breakdowns.com,resources.thrivestack.ai,www.techemails.com,blog.eladgil.com,newsletter.pragmaticengineer.com,dkb.blog,www.fabricatedknowledge.com,www.semianalysis.com,www.appeconomyinsights.com,www.business-breakdowns.com,www.notboring.co,www.notoriousplg.ai,growthunhinged.com,thepsmiths.com,substack.com,newsletter.mkt1.co##.single-post-section:not(.comments-section),.publication-footer,.subscribe-footer
 
 
 ! --------------------------------------------------------------------------------
@@ -90,3 +90,4 @@ www.washingtonpost.com##.grid-rail,.hide-for-print
 motherduck.com###__next>div:first-child>div,.content-table-wrapper,main>div:last-child
 americanaffairsjournal.org##.site-footer-wrapper,.post-navigation
 alistapart.com##.footer-widget-area-wrap,.site-info-wrap,footer,.comment-area-wrap,.ala-author,.sidebar-related
+medicalxpress.com##.news-related,.article-sidebar,.d-print-none
