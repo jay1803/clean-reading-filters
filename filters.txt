@@ -92,4 +92,4 @@ americanaffairsjournal.org##.site-footer-wrapper,.post-navigation
 alistapart.com##.footer-widget-area-wrap,.site-info-wrap,footer,.comment-area-wrap,.ala-author,.sidebar-related
 medicalxpress.com##.news-related,.article-sidebar,.d-print-none
 www.jorgegalindo.me##.side-bar-fixed,.blog-articles-list,.conteiner-footer
-zapier.com/blog##div[data-testid="secondary-navigation"],main > section,main > div > section
+zapier.com##div[data-testid="secondary-navigation"],main#mainContent > section,main#mainContent > div > section
