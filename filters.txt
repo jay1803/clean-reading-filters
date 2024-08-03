@@ -92,4 +92,4 @@ alistapart.com##.footer-widget-area-wrap,.site-info-wrap,footer,.comment-area-wr
 medicalxpress.com##.news-related,.article-sidebar,.d-print-none
 www.jorgegalindo.me##.side-bar-fixed,.blog-articles-list,.conteiner-footer
 zapier.com##div[data-testid="secondary-navigation"],main#mainContent > section,main#mainContent > div > section
-www.investopedia.com###related-recirc-section_1-0
+www.investopedia.com###related-recirc-section_1-0,#footer_1-0,.footer
