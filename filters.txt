@@ -34,9 +34,9 @@ andrewchen.com##.main>div:last-child,#sidebar,iframe
 steveblank.com###header-box
 nytimes.com##.ribbon-show.article-ribbon,.article-ribbon,#subscriber-recirculation-bottom-sheet
 www.bloomberg.com###fortress-paywall-container-root
-www.stage2.capital##.site-header--scroll,www.stage2.capital##.pillar-page__nav
+www.stage2.capital##.site-header--scroll,.pillar-page__nav
 www.forbes.com##.save-tooltip,.pay-wall-content
-www.demandcurve.com##.author-block,.after-article-form-box,article~div,.banner,,.playbook-sharing,.playbook-sidebar
+www.demandcurve.com##.author-block,.after-article-form-box,article~div,.banner,.playbook-sharing,.playbook-sidebar
 www.skyword.com##.sky-related-posts,.blog-structured-data,.sky-footer-cta
 moz.com##div[data-promo],.container~div,#mzr-footer,.mzr-footer
 www.mckinsey.com##div[data-layer-region="related-articles"],.mck-u-screen-only,#global-footer,div[data-component="mdc-c-background-image"]
@@ -73,10 +73,10 @@ www.demandcurve.com###newsletters,.playbook-sidebar,.navigation
 www.frbsf.org##footer,nav
 graphite.dev###related,footer,div[class*='content_stickySidebar']
 tackle.io##.related-posts,.post-share,div[data-elementor-type="footer"]
-www.noemamag.com###.related-articles
+www.noemamag.com##.related-articles
 theweeklyseo.com###header.header,.issue__pager,.cta--footer
 minuttia.com###div[data-elementor-type="footer"],div[data-elementor-type="single-post"]>div:last-child,div[data-elementor-type="single-post"]>section:last-child
-www.acquired.fm###.related-episodes-title,.related-episodes,.div-block-3-post-bottom,.main-section
+www.acquired.fm##.related-episodes-title,.related-episodes,.div-block-3-post-bottom,.main-section
 www.scalevp.com##.blog-single__related-posts,.c-sticky-widget
 solutions.trustradius.com##.section-slider-related-posts,footer
 www.wheresyoured.at##main~section
