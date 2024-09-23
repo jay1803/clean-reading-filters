@@ -13,7 +13,7 @@ www.elenaverna.com,substack.wasteman.codes,www.henrikkarlsson.xyz,www.growth-mem
 ! --------------------------------------------------------------------------------
 ! medium.com
 ! --------------------------------------------------------------------------------
-netflixtechblog.com,thinkgrowth.org,medium.com###root>div>div:last-child>div:last-child>div:last-child,div:has(>figure:only-child),footer~div,footer
+expand.openviewpartners.com,netflixtechblog.com,thinkgrowth.org,medium.com###root>div>div:last-child>div:last-child>div:last-child,div:has(>figure:only-child),footer~div,footer
 
 ! --------------------------------------------------------------------------------
 ! beehiiv
