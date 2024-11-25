@@ -94,3 +94,8 @@ www.jorgegalindo.me##.side-bar-fixed,.blog-articles-list,.conteiner-footer
 zapier.com##div[data-testid="secondary-navigation"],main#mainContent > section,main#mainContent > div > section
 www.investopedia.com###related-recirc-section_1-0,#footer_1-0,.footer,#article__primary-video-container--jw_1-0
 www.forex.com##.market-article-sidebar,.live-chat-button,footer
+www.btnull.org###HMimageleft,#HMimageright
+blog.uxtweak.com##.related-slider.row,footer
+www.boardofinnovation.com##.elementor-widget-template.elementor-widget.elementor-element-3034241.elementor-element > .elementor-widget-container,#summitOverlay,.elementor-location-footer
+fibery.io##footer,[class*="CallToAction-module"]
+www.futurecommerce.com##.footer-2,.latest-posts
