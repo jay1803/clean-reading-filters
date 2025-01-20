@@ -7,7 +7,7 @@
 ! --------------------------------------------------------------------------------
 ! substacks
 ! --------------------------------------------------------------------------
-wrap-text.equals.com,www.understandingai.org,creatoreconomy.so,www.elenaverna.com,substack.wasteman.codes,www.henrikkarlsson.xyz,www.growth-memo.com,www.bitsofwonder.co,www.writingruxandrabio.com,www.thebignewsletter.com,www.cautiousoptimism.news,www.tanayj.com,www.lennysnewsletter.com,blog.ablspacesystems.com,www.strangeloopcanon.com,www.elysian.press,www.experimental-history.com,www.abortretry.fail,magazine.sebastianraschka.com,hardcoresoftware.learningbyshipping.com,www.construction-physics.com,www.millersbookreview.com,www.business-breakdowns.com,resources.thrivestack.ai,www.techemails.com,blog.eladgil.com,newsletter.pragmaticengineer.com,dkb.blog,www.fabricatedknowledge.com,www.semianalysis.com,www.appeconomyinsights.com,www.business-breakdowns.com,www.notboring.co,www.notoriousplg.ai,growthunhinged.com,thepsmiths.com,substack.com,newsletter.mkt1.co##.single-post-section:not(.comments-section),.publication-footer,.subscribe-footer
+www.danielmnke.com,wrap-text.equals.com,www.understandingai.org,creatoreconomy.so,www.elenaverna.com,substack.wasteman.codes,www.henrikkarlsson.xyz,www.growth-memo.com,www.bitsofwonder.co,www.writingruxandrabio.com,www.thebignewsletter.com,www.cautiousoptimism.news,www.tanayj.com,www.lennysnewsletter.com,blog.ablspacesystems.com,www.strangeloopcanon.com,www.elysian.press,www.experimental-history.com,www.abortretry.fail,magazine.sebastianraschka.com,hardcoresoftware.learningbyshipping.com,www.construction-physics.com,www.millersbookreview.com,www.business-breakdowns.com,resources.thrivestack.ai,www.techemails.com,blog.eladgil.com,newsletter.pragmaticengineer.com,dkb.blog,www.fabricatedknowledge.com,www.semianalysis.com,www.appeconomyinsights.com,www.business-breakdowns.com,www.notboring.co,www.notoriousplg.ai,growthunhinged.com,thepsmiths.com,substack.com,newsletter.mkt1.co##.single-post-section:not(.comments-section),.publication-footer,.subscribe-footer
 
 
 ! --------------------------------------------------------------------------------
@@ -99,3 +99,7 @@ blog.uxtweak.com##.related-slider.row,footer
 www.boardofinnovation.com##.elementor-widget-template.elementor-widget.elementor-element-3034241.elementor-element > .elementor-widget-container,#summitOverlay,.elementor-location-footer
 fibery.io##footer,[class*="CallToAction-module"]
 www.futurecommerce.com##.footer-2,.latest-posts
+www.fool.com##.shadow-card.p-20px.bg-white,#sidebar-top-pitch-wrapper,.article-sidebar,#tophat-container,.z-top.usmf-article-nav,.premium-investing-services,.footer
+cn.nytimes.com##.article-footer.container,.col-lg-3.article-body-aside,.download,.container.nav-footer
+kenkantzer.com##.bg-dark.large-padding.section.footer,.section.header,.no-padding.bg-dark.section.credits,.pingbacks,.right.sidebar
+www.annacoulling.com##.rum_sst_left.rum_sst_contents,.mh-author-box,.mh-post-nav-wrap,#mh-comments,#respond,footer,.entry-tags,.fixed,.mh-sidebar
