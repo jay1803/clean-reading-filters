@@ -7,7 +7,7 @@
 ! --------------------------------------------------------------------------------
 ! substacks
 ! --------------------------------------------------------------------------
-kasurian.com,www.marketingideas.com,frederikwrites.com,www.danielmnke.com,wrap-text.equals.com,www.understandingai.org,creatoreconomy.so,www.elenaverna.com,substack.wasteman.codes,www.henrikkarlsson.xyz,www.growth-memo.com,www.bitsofwonder.co,www.writingruxandrabio.com,www.thebignewsletter.com,www.cautiousoptimism.news,www.tanayj.com,www.lennysnewsletter.com,blog.ablspacesystems.com,www.strangeloopcanon.com,www.elysian.press,www.experimental-history.com,www.abortretry.fail,magazine.sebastianraschka.com,hardcoresoftware.learningbyshipping.com,www.construction-physics.com,www.millersbookreview.com,www.business-breakdowns.com,resources.thrivestack.ai,www.techemails.com,blog.eladgil.com,newsletter.pragmaticengineer.com,dkb.blog,www.fabricatedknowledge.com,www.semianalysis.com,www.appeconomyinsights.com,www.business-breakdowns.com,www.notboring.co,www.notoriousplg.ai,growthunhinged.com,thepsmiths.com,substack.com,newsletter.mkt1.co##.single-post-section:not(.comments-section),.publication-footer,.subscribe-footer,[class*=" sidebar-"]
+blog.jacobstechtavern.com,kasurian.com,www.marketingideas.com,frederikwrites.com,www.danielmnke.com,wrap-text.equals.com,www.understandingai.org,creatoreconomy.so,www.elenaverna.com,substack.wasteman.codes,www.henrikkarlsson.xyz,www.growth-memo.com,www.bitsofwonder.co,www.writingruxandrabio.com,www.thebignewsletter.com,www.cautiousoptimism.news,www.tanayj.com,www.lennysnewsletter.com,blog.ablspacesystems.com,www.strangeloopcanon.com,www.elysian.press,www.experimental-history.com,www.abortretry.fail,magazine.sebastianraschka.com,hardcoresoftware.learningbyshipping.com,www.construction-physics.com,www.millersbookreview.com,www.business-breakdowns.com,resources.thrivestack.ai,www.techemails.com,blog.eladgil.com,newsletter.pragmaticengineer.com,dkb.blog,www.fabricatedknowledge.com,www.semianalysis.com,www.appeconomyinsights.com,www.business-breakdowns.com,www.notboring.co,www.notoriousplg.ai,growthunhinged.com,thepsmiths.com,substack.com,newsletter.mkt1.co##.single-post-section:not(.comments-section),.publication-footer,.subscribe-footer,[class*=" sidebar-"]
 
 
 ! --------------------------------------------------------------------------------
@@ -111,3 +111,12 @@ pluralistic.net##.widget_archive,.widget-area
 www.npr.org##.story-recommendations,.npr-footer
 dynomight.net##.after-content
 www.science.org##.article-container aside,.footer
+stratechery.com##footer,header,.wp-block-column-is-layout-flow.is-layout-flow.stratechery-sidebar.wp-block-column > .wp-block-template-part,.wp-block-jetpack-related-posts,div.wp-block-passport-restricted-content
+www.science.org##.article-container aside,.footer
+www.svpg.com###footer
+fs.blog##.site-footer,.pagination-next
+amplitude.com##.sticky,footer,main~div,.min-h-screen > div > div:last-child > div:last-child > div:last-child
+www.acquire.io##.popup-card,.sticky-top,.section_article-related,.position-relative.background-color-pine.section_footer,iframe
+edlatimore.com##div[aria-role="main"]>section:nth-child(n+3),footer
+blog.publiccomps.com##.read-more-wrap,#disqus_thread,.site-footer
+www.zumsteg.net##.comment-respond
