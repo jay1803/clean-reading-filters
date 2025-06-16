@@ -120,3 +120,10 @@ www.acquire.io##.popup-card,.sticky-top,.section_article-related,.position-relat
 edlatimore.com##div[aria-role="main"]>section:nth-child(n+3),footer
 blog.publiccomps.com##.read-more-wrap,#disqus_thread,.site-footer
 www.zumsteg.net##.comment-respond
+workingbackwards.com##.elementor-location-footer
+www.reforge.com##footer,section:has(.carousel),aside
+www.june.so##.xl\:hidden.overflow-hidden.xl\:w-\[370px\].w-full.justify-self-start.self-start.gap-\[24px\].flex.mt-6 > .gap-4.flex-col.flex.w-full
+||webassets.june.so/images/2023/06/article2.png$image
+www.june.so##.overflow-y-hidden.font-hero.lg\:mt-40.mt-\[64px\].items-center.flex-col.flex,[src="https://webassets.june.so/images/2023/06/article2.png"],.xl\:max-w-3xl.gap.row-span-1.col-span-1.w-full > [src]
+www.endgame.io##.framer-87ro7o,.framer-rwoizj,.framer-1mguibd-container,.framer-1qbacvi,.framer-7ecoxk
+www.june.so##.overflow-y-hidden.md\:mt-40.mt-20.justify-center.flex.w-full
